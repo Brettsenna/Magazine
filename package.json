@@ -1,0 +1,43 @@
+{
+  "name": "magazine",
+  "fullName": "Magazine",
+  "description": "This template reproduces the look and feel for a printed magazine",
+  "version": "1.0",
+  "keywords": [
+    "magazine"
+  ],
+  // "licenses": [
+  //   {
+  //     "type": "MIT",
+  //     "url": "http://example.net/license/MIT"
+  //   }
+  // ],
+  "joshfire": {
+    "images": {
+      "small": "http://i.imgur.com/sm0MA.png",
+      "big": "http://i.imgur.com/x5NbC.png"
+    },
+    "datasources": {
+      "text": {
+        "title": "The content of your magazine",
+        "description": "Put here the content of your magazine"
+      }
+    },
+    "devices": [
+      {
+        "devices": "tablet",
+        "startfile": "index.html"
+        // "orientation": "auto",
+        // "images": "img/tablet/image.png",
+        // "screenshots": [
+        //   "img/phone/screen1.png",
+        //   "img/phone/screen2.png"
+        // ]
+      },
+      {
+        "devices": "desktop",
+        "startfile": "index.html"
+      }
+    ]
+  }
+}
