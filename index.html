@@ -2,7 +2,14 @@
 <html>
   <head>
   <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
-  <script src="scripts/turn.min.js"></script>
+  <script src="scripts/turn.js"></script>
+  <script data-joshfire-bootstrap></script>
+  <script>
+    var f = Joshfire.factory;
+    var text = f.getDataSource('main');
+    console.log('f', f);
+    console.log('text', text);
+  </script>
   <style>
     body{
     	background: #ccc;
