@@ -6,12 +6,6 @@
   "keywords": [
     "magazine"
   ],
-  // "licenses": [
-  //   {
-  //     "type": "MIT",
-  //     "url": "http://example.net/license/MIT"
-  //   }
-  // ],
   "joshfire": {
     "images": {
       "small": "http://i.imgur.com/sm0MA.png",
@@ -27,12 +21,6 @@
       {
         "devices": "tablet",
         "startfile": "index.html"
-        // "orientation": "auto",
-        // "images": "img/tablet/image.png",
-        // "screenshots": [
-        //   "img/phone/screen1.png",
-        //   "img/phone/screen2.png"
-        // ]
       },
       {
         "devices": "desktop",
