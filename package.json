@@ -26,6 +26,19 @@
         "devices": "desktop",
         "startfile": "index.html"
       }
-    ]
+    ],
+    "options": {
+      "schema": {
+        "interactive": {
+          "type": "boolean",
+          "title": "Interactive",
+          "description": "Check for keeping HTML elements and interactivity of your articles"
+        }
+      },
+      "form": [
+        "datasources.text",
+        "interactive"
+      ]
+    }
   }
 }
