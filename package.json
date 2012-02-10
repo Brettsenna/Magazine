@@ -37,7 +37,10 @@
       },
       "form": [
         "datasources.text",
-        "interactive"
+        {
+          "key": "interactive",
+          "type": "boolean"
+        }
       ]
     }
   }
