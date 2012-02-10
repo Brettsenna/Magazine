@@ -2,14 +2,14 @@
   "name": "magazine",
   "fullName": "Magazine",
   "description": "This template reproduces the look and feel for a printed magazine",
-  "version": "1.0",
+  "version": "1.0.1",
   "keywords": [
     "magazine"
   ],
   "joshfire": {
     "images": {
-      "small": "http://i.imgur.com/sm0MA.png",
-      "big": "http://i.imgur.com/x5NbC.png"
+      "small": "http://dl.dropbox.com/u/1351363/small.png",
+      "big": "http://dl.dropbox.com/u/1351363/big.png"
     },
     "datasources": {
       "text": {
