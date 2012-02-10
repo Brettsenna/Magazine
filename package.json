@@ -39,7 +39,7 @@
         "datasources.text",
         {
           "key": "interactive",
-          "type": "boolean"
+          "type": "checkbox"
         }
       ]
     }
